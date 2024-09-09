@@ -4,6 +4,7 @@ float fahr,celsius;
 #define LOWER 0
 #define UPPER 100
 #define STEP 20
+// typeof unsigned char *x
 
 #define IN 1
 #define OUT 0
